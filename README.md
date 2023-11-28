@@ -26,13 +26,10 @@ This is a Pokedex mobile application developed using Flutter.
 ## Screenshots
 <span>
 <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-28%20at%2015.18.16.png" width="250" height="400" alt="Screenshot 1">
-*Description of screenshot 1*
 
 <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-28%20at%2015.18.27.png" width="250" height="400" alt="Screenshot 2">
-*Description of screenshot 2*
 
 <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-11-28%20at%2015.18.48.png" width="250" height="400" alt="Screenshot 3">
-*Description of screenshot 3*
 </span>
 
 ## Technologies Used
